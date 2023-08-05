@@ -9,6 +9,4 @@ el codigo que puedes, debes y vas a editar es el que esta en sources (src)
 
 ahi esta un main.js que es el que se compila y esta una carpeta llamada engine, dentro de esa carpeta estan los constructores(obviamente le faltan cosas) solo hice el Engine, el GameObject, y el Entity(que es mas de prueba que de logica)
 
-y listo aqui tienes el readme mas malo de la historia si cojes sida no es mi problema... yo solo lo hice... con sueño
-
 bye y trabaja perro
